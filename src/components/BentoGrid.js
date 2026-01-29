@@ -13,10 +13,10 @@ export function BentoGrid() {
               <h3>Innovation First</h3>
               <p>We leverage cutting-edge manufacturing techniques to create denim that's durable, stylish, and futuristic.</p>
             </div>
-            <div class="nk-bento-item__bg" style="background-image: url('/assets/images/Large Innovation.jpeg');"></div>
+            <div class="nk-bento-item__bg" style="background-image: url('assets/images/Large Innovation.jpeg');"></div>
           </div>
           
-          <div class="nk-bento-item nk-bento-item--small animate-on-scroll" style="background-image: url('/assets/images/Small Precision.jpeg'); color: white;">
+          <div class="nk-bento-item nk-bento-item--small animate-on-scroll" style="background-image: url('assets/images/Small Precision.jpeg'); color: white;">
             <div class="nk-overlay nk-overlay--dark"></div>
             <div class="nk-bento-item__content">
               <h3>Precision</h3>
@@ -31,7 +31,7 @@ export function BentoGrid() {
             </div>
           </div>
           
-          <div class="nk-bento-item nk-bento-item--medium animate-on-scroll" style="background-image: url('/assets/images/Medium Custom Branding.jpeg'); color: white;">
+          <div class="nk-bento-item nk-bento-item--medium animate-on-scroll" style="background-image: url('assets/images/Medium Custom Branding.jpeg'); color: white;">
             <div class="nk-overlay nk-overlay--dark"></div>
             <div class="nk-bento-item__content">
               <h3>Custom Branding</h3>

@@ -2,7 +2,7 @@ export function Contact() {
   return `
     <main class="nk-main">
       <section class="nk-hero nk-hero--light">
-         <div class="nk-hero__bg" style="background-image: url('/assets/images/Main Hero Background.jpeg'); filter: saturate(0) brightness(1.2);"></div>
+         <div class="nk-hero__bg" style="background-image: url('assets/images/Main Hero Background.jpeg'); filter: saturate(0) brightness(1.2);"></div>
          <div class="nk-container nk-hero__content">
           <div class="animate-on-scroll">
             <span class="nk-hero__overhead">CONTACT US</span>

@@ -1,9 +1,9 @@
 export function ProductGrid() {
   const products = [
-    { title: "Classic Straight Fit", price: "MSRP ₹1200", image: "/assets/images/Classic Straight Fit.jpeg" },
-    { title: "Slim Tapered Blue", price: "MSRP ₹1400", image: "/assets/images/Slim Tapered Blue.jpeg" },
-    { title: "Vintage Wash Relaxed", price: "MSRP ₹1300", image: "/assets/images/Vintage Wash Relaxed.jpeg" },
-    { title: "Black Denim Standard", price: "MSRP ₹1250", image: "/assets/images/Black Denim Standard.jpeg" },
+    { title: "Classic Straight Fit", price: "MSRP ₹1200", image: "assets/images/Classic Straight Fit.jpeg" },
+    { title: "Slim Tapered Blue", price: "MSRP ₹1400", image: "assets/images/Slim Tapered Blue.jpeg" },
+    { title: "Vintage Wash Relaxed", price: "MSRP ₹1300", image: "assets/images/Vintage Wash Relaxed.jpeg" },
+    { title: "Black Denim Standard", price: "MSRP ₹1250", image: "assets/images/Black Denim Standard.jpeg" },
   ];
 
   return `

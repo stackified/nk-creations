@@ -2,7 +2,7 @@ export function About() {
   return `
     <main class="nk-main">
       <section class="nk-hero nk-hero--light">
-        <div class="nk-hero__bg" style="background-image: url('/assets/images/Heritage Hero.jpeg');"></div>
+        <div class="nk-hero__bg" style="background-image: url('assets/images/Heritage Hero.jpeg');"></div>
         <div class="nk-container nk-hero__content">
           <div class="animate-on-scroll">
             <span class="nk-hero__overhead">OUR STORY</span>

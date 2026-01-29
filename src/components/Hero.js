@@ -1,7 +1,7 @@
 export function Hero() {
   return `
     <section class="nk-hero">
-      <div class="nk-hero__bg" style="background-image: url('/assets/images/Main Hero Background.jpeg');"></div>
+      <div class="nk-hero__bg" style="background-image: url('assets/images/Main Hero Background.jpeg');"></div>
       <div class="nk-container nk-hero__content">
         <div class="nk-hero__text-wrapper">
           <span class="nk-hero__overhead text-uppercase animate-on-scroll">Premium Denim Manufacturing</span>
