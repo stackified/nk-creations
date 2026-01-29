@@ -2,7 +2,7 @@ export function Header() {
   return `
     <header class="nk-header">
       <div class="nk-container nk-header__inner">
-        <a href="/" class="nk-header__logo">
+        <a href="#" class="nk-header__logo">
           NK CREATIONS©
         </a>
         
