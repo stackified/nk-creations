@@ -1,0 +1,17 @@
+// NK Creations Brand Colors (Minimalist)
+$color-brand-darkest: #000000;
+$color-brand-dark: #1A1A1A;
+$color-brand-primary: #333333;
+$color-brand-accent: #333333;
+$color-brand-light: #FFFFFF;
+$color-brand-offwhite: #F5F5F7;
+
+// Semantic mappings
+$color-bg-body: $color-brand-light;
+$color-text-primary: $color-brand-darkest;
+$color-text-secondary: $color-brand-accent;
+
+// Typography
+$font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+$font-family-display: 'Host Grotesk', 'Inter', sans-serif;
+$font-family-mono: 'Space Mono', monospace;
